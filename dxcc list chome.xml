@@ -1,0 +1,770 @@
+<?xml version="1.0" encoding="UTF-8" ?><adxdx name="dxcchome" date="012022" src="ARRL"><entity><name>
+Andaman+ Nicobar Is</name><Afn></Afn><numb>011</numb><cont>AS</cont><msg3></msg3><prefix>VU4</prefix><nocd>
+</nocd></entity><entity><name>
+Agalega, St Brandon Is</name><Afn></Afn><numb>004</numb><cont>AF</cont><msg3></msg3><prefix>3B6</prefix><prefix2>3B7</prefix2><nocd>*
+</nocd></entity><entity><name>
+Alaska</name><Afn></Afn><numb>006</numb><cont>NA</cont><msg3>#</msg3><prefix>KL/AL</prefix><prefix2>NL/WL</prefix2><nocd>
+</nocd></entity><entity><name>
+Aland Is</name><Afn></Afn><numb>005</numb><cont>EU</cont><msg3></msg3><prefix>OH0</prefix><nocd>
+</nocd></entity><entity><name>
+Albania</name><Afn></Afn><numb>169</numb><cont>EU</cont><msg3></msg3><prefix>ZA</prefix><nocd>*
+</nocd></entity><entity><name>
+Algeria</name><Afn></Afn><numb>400</numb><cont>AF</cont><msg3></msg3><prefix>7T-</prefix><prefix2>7Y</prefix2><nocd>
+</nocd></entity>
+
+<entity><name>
+Afghanistan</name><Afn></Afn><numb>003</numb><cont>AS</cont><msg3></msg3><prefix>YA</prefix><prefix2>T6</prefix2><nocd>*
+</nocd></entity><entity><name>
+American Samoa</name><Afn></Afn><numb>009</numb><cont>OC</cont><msg3>#</msg3><prefix>KH8</prefix><nocd>
+</nocd></entity><entity><name>
+Amsterdam+ St Paul Is</name><Afn></Afn><numb>010</numb><cont>AF</cont><msg3></msg3><prefix>FT/Z</prefix><nocd>
+</nocd></entity><entity><name>
+Andorra</name><Afn></Afn><numb>203</numb><cont>EU</cont><msg3></msg3><prefix>C3</prefix><nocd>
+</nocd></entity><entity><name>
+Angola</name><Afn></Afn><numb>401</numb><cont>AF</cont><msg3></msg3><prefix>D2</prefix><prefix2>D3</prefix2><nocd>*
+</nocd></entity><entity><name>
+Anguilla</name><Afn>37</Afn><numb>012</numb><cont>NA</cont><msg3></msg3><prefix>VP2E</prefix><nocd>*
+</nocd></entity><entity><name>
+Annobon I</name><Afn></Afn><numb>195</numb><cont>AF</cont><msg3></msg3><prefix>3C0</prefix><nocd>*
+</nocd></entity>
+
+<entity><name>
+Antarctica</name><Afn></Afn><numb>169</numb><cont>AN</cont><msg3></msg3><prefix>CE9</prefix><prefix2>KC4</prefix2><nocd>
+</nocd></entity><entity><name>
+Antigua+ Barbuda</name><Afn></Afn><numb>094</numb><cont>NA</cont><msg3>#</msg3><prefix>V2</prefix><nocd>
+</nocd></entity><entity><name>
+Argentina</name><Afn></Afn><numb>100</numb><cont>SA</cont><msg3>#</msg3><prefix>LO-</prefix><prefix2>LW</prefix2><nocd>
+</nocd></entity><entity><name>
+Armenia</name><Afn></Afn><numb>434</numb><cont>AS</cont><msg3></msg3><prefix>EK</prefix><nocd>
+</nocd></entity><entity><name>
+Aruba</name><Afn>25</Afn><numb>091</numb><cont>SA</cont><msg3></msg3><prefix>P4</prefix><nocd>
+</nocd></entity><entity><name>
+Ascension I</name><Afn></Afn><numb>205</numb><cont>AF</cont><msg3></msg3><prefix>ZD8</prefix><nocd>
+</nocd></entity>
+
+<entity><name>
+Asiatic Russia</name><Afn></Afn><numb>015</numb><cont>AS</cont><msg3></msg3><prefix>UA-UI8</prefix><prefix2>UI9/UI10</prefix2>
+<prefix3>RA-RZ</prefix3><nocd></nocd></entity><entity><name>
+Austral I</name><Afn>16</Afn><numb>508</numb><cont>OC</cont><msg3></msg3><prefix>FO</prefix><prefix2>TX</prefix2><nocd>
+</nocd></entity><entity><name>
+Australia</name><Afn></Afn><numb>150</numb><cont>OC</cont><msg3>#</msg3><prefix>VK</prefix><prefix2>AX</prefix2><nocd>
+</nocd></entity><entity><name>
+Austria</name><Afn></Afn><numb>206</numb><cont>EU</cont><msg3></msg3><prefix>OE</prefix><nocd>
+</nocd></entity><entity><name>
+Aves I</name><Afn></Afn><numb>017</numb><cont>NA</cont><msg3>#</msg3><prefix>YV0</prefix><nocd>
+</nocd></entity><entity><name>
+Azerbaijan</name><Afn></Afn><numb>018</numb><cont>AF</cont><msg3></msg3><prefix>4J</prefix><prefix2>4K</prefix2><nocd>
+</nocd></entity><entity><name>
+Azores</name><Afn></Afn><numb>149</numb><cont>EU</cont><msg3></msg3><prefix>CU</prefix><nocd>
+</nocd></entity>
+
+<entity><name>
+Bahamas</name><Afn></Afn><numb>060</numb><cont>NA</cont><msg3></msg3><prefix>C6</prefix><nocd>*
+</nocd></entity><entity><name>
+Bahrain</name><Afn></Afn><numb>304</numb><cont>AS</cont><msg3></msg3><prefix>A9</prefix><nocd>
+</nocd></entity><entity><name>
+Baker+ Howland Is</name><Afn></Afn><numb>020</numb><cont>OC</cont><msg3>#</msg3><prefix>KH1</prefix><nocd>*
+</nocd></entity><entity><name>
+Balearic Is</name><Afn></Afn><numb>021</numb><cont>EU</cont><msg3></msg3><prefix>EA6-</prefix><prefix2>EH6</prefix2><nocd>
+</nocd></entity><entity><name>
+Belgium</name><Afn></Afn><numb>209</numb><cont>EU</cont><msg3></msg3><prefix>ON-</prefix><prefix2>OT</prefix2><nocd>
+</nocd></entity><entity><name>
+Barbados</name><Afn></Afn><numb>062</numb><cont>NA</cont><msg3></msg3><prefix>8P</prefix><nocd>
+</nocd></entity><entity><name>
+Belarus</name><Afn></Afn><numb>027</numb><cont>EU</cont><msg3></msg3><prefix>EU-</prefix><prefix2>EW</prefix2><nocd>
+</nocd></entity><entity><name>
+Belize</name><Afn></Afn><numb>066</numb><cont>NA</cont><msg3>#</msg3><prefix>V3</prefix><nocd>*
+</nocd></entity>
+
+<entity><name>
+Bermuda</name><Afn></Afn><numb>064</numb><cont>NA</cont><msg3></msg3><prefix>VP9</prefix><nocd>
+</nocd></entity><entity><name>
+Bhutan</name><Afn></Afn><numb>306</numb><cont>AS</cont><msg3></msg3><prefix>A5</prefix><nocd>*
+</nocd></entity><entity><name>
+Bolivia</name><Afn></Afn><numb>104</numb><cont>SA</cont><msg3>#</msg3><prefix>CP</prefix><nocd>
+</nocd></entity><entity><name>
+Bonaire</name><Afn>51</Afn><numb>520</numb><cont>SA</cont><msg3></msg3><prefix>PJ4</prefix><nocd>*
+</nocd></entity><entity><name>
+Bosnia-Herzegovina</name><Afn>29</Afn><numb>501</numb><cont>EU</cont><msg3>#</msg3><prefix>E7</prefix><nocd>
+</nocd></entity><entity><name>
+Botswana</name><Afn></Afn><numb>402</numb><cont>AF</cont><msg3></msg3><prefix>A2</prefix><nocd>
+</nocd></entity><entity><name>
+Bouvet</name><Afn></Afn><numb>024</numb><cont>AF</cont><msg3></msg3><prefix>3Y</prefix><nocd>
+</nocd></entity>
+
+<entity><name>
+Brazil</name><Afn></Afn><numb>108</numb><cont>SA</cont><msg3>#</msg3><prefix>PP-PY</prefix><prefix2>ZV-ZZ</prefix2><nocd>
+</nocd></entity><entity><name>
+British Virgin Is</name><Afn>37</Afn><numb>065</numb><cont>NA</cont><msg3></msg3><prefix>VP2V</prefix><nocd>
+</nocd></entity><entity><name>
+Brunei Darussalam</name><Afn></Afn><numb>345</numb><cont>OC</cont><msg3></msg3><prefix>V8</prefix><nocd>
+</nocd></entity><entity><name>
+Bulgaria</name><Afn></Afn><numb>212</numb><cont>EU</cont><msg3></msg3><prefix>LZ</prefix><nocd>
+</nocd></entity><entity><name>
+Burundi</name><Afn></Afn><numb>404</numb><cont>AF</cont><msg3></msg3><prefix>9U</prefix><nocd>*
+</nocd></entity><entity><name>
+Banaba I</name><Afn></Afn><numb>490</numb><cont>OC</cont><msg3></msg3><prefix>T33</prefix><nocd>*
+</nocd></entity><entity><name>
+Bangladesh</name><Afn></Afn><numb>305</numb><cont>AS</cont><msg3></msg3><prefix>S2</prefix><nocd>
+</nocd></entity><entity><name>
+Benin</name><Afn>35</Afn><numb>416</numb><cont>AF</cont><msg3></msg3><prefix>TY</prefix><nocd>*
+</nocd></entity><entity><name>
+Burkina Faso</name><Afn>39</Afn><numb>480</numb><cont>AF</cont><msg3></msg3><prefix>XT</prefix><nocd>
+</nocd></entity>
+
+<entity><name>
+Cambodia</name><Afn></Afn><numb>312</numb><cont>AS</cont><msg3></msg3><prefix>XU</prefix><nocd>*
+</nocd></entity><entity><name>
+Cameroon</name><Afn></Afn><numb>406</numb><cont>AF</cont><msg3></msg3><prefix>TJ</prefix><nocd>*
+</nocd></entity><entity><name>
+Canada</name><Afn></Afn><numb>1</numb><cont>NA</cont><msg3>#</msg3><prefix>VA</prefix><prefix2>VG</prefix2><prefix3>VO</prefix3>
+<nocd></nocd></entity><entity><name>
+Canary Is</name><Afn></Afn><numb>029</numb><cont>AF</cont><msg3></msg3><prefix>EA8-</prefix><prefix2>EH8</prefix2><nocd>
+</nocd></entity><entity><name>
+Cape Verde</name><Afn></Afn><numb>409</numb><cont>AF</cont><msg3></msg3><prefix>D4</prefix><nocd>*
+</nocd></entity><entity><name>
+Cayman Is</name><Afn></Afn><numb>069</numb><cont>NA</cont><msg3></msg3><prefix>ZF</prefix><nocd>
+</nocd></entity><entity><name>
+Central Africa</name><Afn>30</Afn><numb>408</numb><cont>AF</cont><msg3></msg3><prefix>TL</prefix><nocd>*
+</nocd></entity><entity><name>
+Ceuta+ Mellilla</name><Afn></Afn><numb>032</numb><cont>AF</cont><msg3></msg3><prefix>EA9-</prefix><prefix2>EH9</prefix2>
+<nocd></nocd></entity>
+  
+<entity><name>
+Chad</name><Afn>33</Afn><numb>169</numb><cont>410</cont><msg3></msg3><prefix>TT</prefix><nocd>*
+</nocd></entity><entity><name>
+Chagos Is</name><Afn></Afn><numb>033</numb><cont>AF</cont><msg3></msg3><prefix>VQ9</prefix><nocd>
+</nocd></entity><entity><name>
+Chatham Is</name><Afn></Afn><numb>034</numb><cont>OC</cont><msg3></msg3><prefix>ZL7</prefix><nocd>
+</nocd></entity><entity><name>
+Chesterfield Is</name>45<Afn></Afn><numb>512</numb><cont>OC</cont><msg3></msg3><prefix>FK</prefix><prefix2>TX</prefix2><nocd>*
+</nocd></entity><entity><name>
+Chile</name><Afn></Afn><numb>112</numb><cont>SA</cont><msg3>#</msg3><prefix>CA-</prefix><prefix2>CE</prefix2><nocd>
+</nocd></entity><entity><name>
+China</name><Afn></Afn><numb>318</numb><cont>AS</cont><msg3></msg3><prefix>B</prefix><nocd>
+</nocd></entity><entity><name>
+Christmas I</name><Afn></Afn><numb>035</numb><cont>OC</cont><msg3></msg3><prefix>VK9X</prefix><nocd>
+</nocd></entity><entity><name>
+Clipperton I</name><Afn></Afn><numb>036</numb><cont>NA</cont><msg3></msg3><prefix>FO</prefix><prefix2>TX</prefix2><nocd>
+</nocd></entity>
+
+<entity><name>
+Cocos I</name><Afn></Afn><numb>037</numb><cont>NA</cont><msg3>#</msg3><prefix>TI9</prefix><nocd>
+</nocd></entity><entity><name>
+Cocos Is/ Keeling</name><Afn></Afn><numb>038</numb><cont>OC</cont><msg3></msg3><prefix>VK9C</prefix><nocd>
+</nocd></entity><entity><name>
+Colombia</name><Afn></Afn><numb>116</numb><cont>SA</cont><msg3>#</msg3><prefix>HJ-HK</prefix><prefix2>5J-5K</prefix2><nocd>
+</nocd></entity><entity><name>
+Comoros</name><Afn>13</Afn><numb>411</numb><cont>AF</cont><msg3>#</msg3><prefix>D6</prefix><nocd>
+</nocd></entity><entity><name>
+Congo, Republic of</name><Afn>31</Afn><numb>412</numb><cont>AF</cont><msg3></msg3><prefix>TN</prefix><nocd>*
+</nocd></entity><entity><name>
+Conway Reef</name><Afn></Afn><numb>489</numb><cont>OC</cont><msg3></msg3><prefix>3D2</prefix><nocd>*
+</nocd></entity><entity><name>
+Cook Is N</name><Afn></Afn><numb>191</numb><cont>OC</cont><msg3></msg3><prefix>E5</prefix><nocd>*
+</nocd></entity><entity><name>
+Cook Is S</name><Afn></Afn><numb>234</numb><cont>OC</cont><msg3></msg3><prefix>E5</prefix><nocd>*
+</nocd></entity>
+
+<entity><name>
+Corsica</name><Afn></Afn><numb>214</numb><cont>EU</cont><msg3></msg3><prefix>TK</prefix><nocd>
+</nocd></entity><entity><name>
+Costa Rica</name><Afn></Afn><numb>308</numb><cont>NA</cont><msg3>#</msg3><prefix>TI</prefix><prefix2>TE</prefix2><nocd>
+</nocd></entity><entity><name>
+Cote d Ivoire</name><Afn></Afn><numb>428</numb><cont>AF</cont><msg3></msg3><prefix>TU</prefix><nocd></nocd>*
+</entity><entity><name>
+Crete</name><Afn></Afn><numb>040</numb><cont>EU</cont><msg3></msg3><prefix>SV9</prefix><prefix2>J49</prefix2><nocd>
+</nocd></entity><entity><name>
+Croatia</name><Afn>6</Afn><numb>497</numb><cont>EU</cont><msg3></msg3><prefix>9A</prefix><nocd>
+</nocd></entity>
+
+<entity><name>
+Crozet</name><Afn></Afn><numb>041</numb><cont>AF</cont><msg3></msg3><prefix>FT/W</prefix><nocd>
+</nocd></entity><entity><name>
+Cuba</name><Afn></Afn><numb>070</numb><cont>NA</cont><msg3>#</msg3><prefix>CM</prefix><prefix2>CO</prefix2><nocd>
+</nocd></entity><entity><name>
+Curacao</name><Afn>50</Afn><numb>517</numb><cont>SA</cont><msg3></msg3><prefix>PJ2</prefix><nocd>*
+</nocd></entity><entity><name>
+Cyprus</name><Afn></Afn><numb>215</numb><cont>AS</cont><msg3></msg3><prefix>5B</prefix><prefix2>C4</prefix2><prefix3>P3</prefix3><nocd>
+</nocd></entity><entity><name>
+UK Base Cyprus</name><Afn>42</Afn><numb>169</numb><cont>AS</cont><msg3></msg3><prefix>ZC4</prefix><nocd>
+</nocd></entity><entity><name>
+Czech Republic</name><Afn></Afn><numb>503</numb><cont>EU</cont><msg3></msg3><prefix>OK-</prefix><prefix2>OL</prefix2><nocd>
+ </nocd></entity>
+
+<entity><name>
+DPR of Korea</name><Afn>26</Afn><numb>344</numb><cont>AS</cont><msg3></msg3><prefix>P5</prefix><nocd>*
+</nocd></entity><entity><name>
+Dem Republic of Congo</name><Afn></Afn><numb>414</numb><cont>AF</cont><msg3></msg3><prefix>9Q-</prefix><prefix2>9T</prefix2><nocd>
+</nocd></entity><entity><name>
+Denmark</name><Afn></Afn><numb>221</numb><cont>EU</cont><msg3></msg3><prefix>OU-</prefix><prefix2>OW</prefix2><prefix2>OZ</prefix2><nocd>
+</nocd></entity><entity><name>
+Desecheo I</name><Afn>22</Afn><numb>043</numb><cont>NA</cont><msg3>#</msg3><prefix>KP5</prefix><nocd>*
+</nocd></entity><entity><name>
+Djibouti</name><Afn></Afn><numb>382</numb><cont>AF</cont><msg3></msg3><prefix>J2</prefix><nocd>
+</nocd></entity><entity><name>
+Dodecanese</name><Afn></Afn><numb>045</numb><cont>EU</cont><msg3></msg3><prefix>SV5</prefix><prefix2>J45</prefix2><nocd>
+</nocd></entity><entity><name>
+Dominica</name><Afn></Afn><numb>095</numb><cont>NA</cont><msg3>#</msg3><prefix>J7</prefix><nocd>
+</nocd></entity><entity><name>
+Dominican Republic</name><Afn></Afn><numb>072</numb><cont>NA</cont><msg3>#</msg3><prefix>HI</prefix><nocd>
+</nocd></entity><entity><name>
+Ducie I</name><Afn>46</Afn><numb>513</numb><cont>OC</cont><msg3></msg3><prefix>VP6</prefix><nocd>
+</nocd></entity>
+
+<entity><name>
+East Malaysia</name><Afn>8</Afn><numb>046</numb><cont>OC</cont><msg3></msg3><prefix>9M6</prefix><prefix2>9M8</prefix2><nocd>
+</nocd></entity><entity><name>
+Easter I</name><Afn></Afn><numb>047</numb><cont>SA</cont><msg3>#</msg3><prefix>CE0</prefix><nocd>
+</nocd></entity><entity><name>
+Ecuador</name><Afn></Afn><numb>120</numb><cont>SA</cont><msg3>#</msg3><prefix>HC</prefix><prefix2>HD</prefix2><nocd>
+</nocd></entity><entity><name>
+Egypt</name><Afn></Afn><numb>478</numb><cont>AF</cont><msg3></msg3><prefix>SU</prefix><nocd>
+</nocd></entity><entity><name>
+El Salvador</name><Afn></Afn><numb>074</numb><cont>NA</cont><msg3>#</msg3><prefix>YS</prefix><prefix2>HU</prefix2><nocd>
+</nocd></entity><entity><name>
+England</name><Afn></Afn><numb>223</numb><cont>EU</cont><msg3></msg3><prefix>G/M</prefix><prefix2>GX</prefix2><nocd>
+</nocd></entity><entity><name>
+Eritrea</name><Afn>15</Afn><numb>051</numb><cont>AF</cont><msg3></msg3><prefix>E3</prefix><nocd>*
+</nocd></entity>
+
+<entity><name>
+Estonia</name><Afn></Afn><numb>052</numb><cont>EU</cont><msg3></msg3><prefix>ES</prefix><nocd>
+</nocd></entity><entity><name>
+Kingdom of Eswatini</name><Afn></Afn><numb>468</numb><cont>AF</cont><msg3>#</msg3><prefix>3DA</prefix><nocd>*
+</nocd></entity><entity><name>
+Ethiopia</name><Afn></Afn><numb>053</numb><cont>AF</cont><msg3></msg3><prefix>ET</prefix><nocd>
+</nocd></entity><entity><name>
+Equitorial Guinea</name><Afn></Afn><numb>049</numb><cont>AF</cont><msg3></msg3><prefix>3C</prefix><nocd>*
+</nocd></entity><entity><name>
+Egypt</name><Afn></Afn><numb>478</numb><cont>AF</cont><msg3></msg3><prefix>SU</prefix><nocd>*
+</nocd></entity><entity><name>
+European Russia</name><Afn></Afn><numb>054</numb><cont>EU</cont><msg3></msg3><prefix>UA-UI1</prefix><prefix2>UI1-UI7</prefix2>
+<prefix3>RA-RZ</prefix3><nocd></nocd></entity>
+
+<entity><name>
+Faroe Is</name><Afn></Afn><numb>222</numb><cont>EU</cont><msg3></msg3><prefix>OY</prefix><nocd>
+</nocd></entity><entity><name>
+Falkland Is</name><Afn></Afn><numb>141</numb><cont>SA</cont><msg3></msg3><prefix>VP8</prefix><nocd>
+</nocd></entity><entity><name>
+Fed Republic of Germany</name><Afn>14</Afn><numb>230</numb><cont>EU</cont><msg3></msg3><prefix>DA-</prefix><prefix2>DR</prefix2><nocd>
+</nocd></entity><entity><name>
+Fernando de Noronha</name><Afn></Afn><numb>056</numb><cont>SA</cont><msg3>#</msg3><prefix>PP0-</prefix><prefix2>PY0F</prefix2><nocd>
+</nocd></entity><entity><name>
+Fiji</name><Afn></Afn><numb>176</numb><cont>OC</cont><msg3></msg3><prefix>3D2</prefix><nocd>
+</nocd></entity>
+
+<entity><name>
+Finland</name><Afn></Afn><numb>224</numb><cont>EU</cont><msg3></msg3><prefix>OF-</prefix><prefix2>OI</prefix2><nocd>
+</nocd></entity><entity><name>
+France</name><Afn></Afn><numb>227</numb><cont>EU</cont><msg3></msg3><prefix>F</prefix><nocd>
+</nocd></entity><entity><name>
+Franz Josef Land</name><Afn></Afn><numb>061</numb><cont>EU</cont><msg3></msg3><prefix>R1/F</prefix><nocd>
+</nocd></entity><entity><name>
+French Guiana</name><Afn></Afn><numb>063</numb><cont>SA</cont><msg3></msg3><prefix>FY</prefix><nocd>
+</nocd></entity><entity><name>
+French Polynesia</name><Afn></Afn><numb>175</numb><cont>OC</cont><msg3></msg3><prefix>FO</prefix><prefix2>TX</prefix2><nocd>
+</nocd></entity>
+
+<entity><name>
+Gabon</name><Afn>32</Afn><numb>169</numb><cont>420</cont><msg3></msg3><prefix>TR</prefix><nocd>
+</nocd></entity><entity><name>
+Galapagos Is</name><Afn></Afn><numb>071</numb><cont>SA</cont><msg3>#</msg3><prefix>HC8</prefix><prefix2>HD8</prefix2><nocd>
+</nocd></entity><entity><name>
+The Gambia</name><Afn></Afn><numb>422</numb><cont>AF</cont><msg3>#</msg3><prefix>C5</prefix><nocd>*
+</nocd></entity><entity><name>
+Georgia</name><Afn></Afn><numb>075</numb><cont>AS</cont><msg3></msg3><prefix>4L</prefix><nocd>
+</nocd></entity><entity><name>
+S Georgia I</name><Afn></Afn><numb>235</numb><cont>SA</cont><msg3></msg3><prefix>VP8</prefix><prefix2>LU</prefix2><nocd>
+</nocd></entity><entity><name>
+Ghana</name><Afn>7</Afn><numb>424</numb><cont>AF</cont><msg3>#</msg3><prefix>9G</prefix><nocd>
+</nocd></entity>
+
+<entity><name>
+Gibraltar</name><Afn></Afn><numb>169</numb><cont>EU</cont><msg3></msg3><prefix>ZB2</prefix><nocd>
+</nocd></entity><entity><name>
+Glorioso Is</name><Afn>17</Afn><numb>099</numb><cont>AF</cont><msg3></msg3><prefix>FT/G</prefix><prefix2>TO</prefix2><nocd>
+</nocd></entity><entity><name>
+Greece</name><Afn></Afn><numb>236</numb><cont>EU</cont><msg3></msg3><prefix>SV-SZ</prefix><prefix2>J4</prefix2><nocd>
+</nocd></entity><entity><name>
+Greenland</name><Afn></Afn><numb>237</numb><cont>NA</cont><msg3></msg3><prefix>OX</prefix><nocd>
+</nocd></entity><entity><name>
+Grenada</name><Afn></Afn><numb>077</numb><cont>NA</cont><msg3>#</msg3><prefix>J3</prefix><nocd>
+</nocd></entity><entity><name>
+Guadeloupe</name><Afn></Afn><numb>079</numb><cont>NA</cont><msg3></msg3><prefix>FG</prefix><prefix2>TO</prefix2><nocd>
+</nocd></entity>
+
+<entity><name>
+Guam</name><Afn></Afn><numb>103</numb><cont>OC</cont><msg3>#</msg3><prefix>KH2</prefix><nocd>
+</nocd></entity><entity><name>
+Guantanamo Bay</name><Afn></Afn><numb>105</numb><cont>NA</cont><msg3>#</msg3><prefix>KG4</prefix><nocd>*
+</nocd></entity><entity><name>
+Guatemala</name><Afn></Afn><numb>076</numb><cont>NA</cont><msg3>#</msg3><prefix>TG</prefix><prefix2>TD</prefix2><nocd>
+</nocd></entity><entity><name>
+Guernsey</name><Afn></Afn><numb>106</numb><cont>EU</cont><msg3></msg3><prefix>GU</prefix><prefix2>GP</prefix2><nocd>
+</nocd></entity><entity><name>
+Guinea</name><Afn></Afn><numb>107</numb><cont>AF</cont><msg3></msg3><prefix>3X</prefix><nocd>*
+</nocd></entity><entity><name>
+Guinea-Bissau</name><Afn></Afn><numb>109</numb><cont>AF</cont><msg3></msg3><prefix>J5</prefix><nocd>*
+</nocd></entity><entity><name>
+Guyana</name><Afn></Afn><numb>129</numb><cont>SA</cont><msg3>#</msg3><prefix>8R</prefix><nocd>
+</nocd></entity>
+
+<entity><name>
+Hawaii</name><Afn></Afn><numb>169</numb><cont>OC</cont><msg3>#</msg3><prefix>KH6</prefix><prefix2>KH7</prefix2><nocd>
+</nocd></entity><entity><name>
+Heard I</name><Afn></Afn><numb>111</numb><cont>AF</cont><msg3></msg3><prefix>VK0</prefix><nocd>
+</nocd></entity><entity><name>
+Honduras</name><Afn></Afn><numb>080</numb><cont>NA</cont><msg3>#</msg3><prefix>HQ-</prefix><prefix2>HR</prefix2><nocd>
+</nocd></entity><entity><name>
+Hong Kong</name><Afn></Afn><numb>321</numb><cont>AS</cont><msg3></msg3><prefix>VR</prefix><nocd>
+</nocd></entity><entity><name>
+Hungary</name><Afn></Afn><numb>239</numb><cont>EU</cont><msg3></msg3><prefix>HA</prefix><prefix2>HG</prefix2><nocd>
+</nocd></entity>
+
+<entity><name>
+Iceland</name><Afn></Afn><numb>242</numb><cont>EU</cont><msg3></msg3><prefix>TF</prefix><nocd>
+</nocd></entity><entity><name>
+India</name><Afn></Afn><numb>324</numb><cont>AS</cont><msg3></msg3><prefix>VU</prefix><nocd>
+</nocd></entity><entity><name>
+Indonesia</name><Afn>40</Afn><numb>327</numb><cont>OC</cont><msg3></msg3><prefix>YB-</prefix><prefix2>YH</prefix2><nocd>
+</nocd></entity><entity><name>
+Iran</name><Afn></Afn><numb>330</numb><cont>AS</cont><msg3></msg3><prefix>EP</prefix><prefix2>EQ</prefix2><nocd>
+</nocd></entity><entity><name>
+Iraq</name><Afn></Afn><numb>333</numb><cont>AS</cont><msg3></msg3><prefix>YI</prefix><nocd>
+</nocd></entity><entity><name>
+Ireland</name><Afn></Afn><numb>245</numb><cont>EU</cont><msg3></msg3><prefix>EI</prefix><prefix2>EJ</prefix2><nocd>
+</nocd></entity><entity><name>
+Isle of Man</name><Afn></Afn><numb>114</numb><cont>EU</cont><msg3>#</msg3><prefix>GD</prefix><prefix2>GT</prefix2><nocd>
+</nocd></entity><entity><name>
+Isreal</name><Afn></Afn><numb>336</numb><cont>AF</cont><msg3></msg3><prefix>4X</prefix><prefix2>4Z</prefix2><nocd>
+</nocd></entity><entity><name>
+Italy</name><Afn></Afn><numb>248</numb><cont>EU</cont><msg3></msg3><prefix>I</prefix><nocd>
+</nocd></entity><entity><name>
+ITU HQ</name><Afn></Afn><numb>117</numb><cont>EU</cont><msg3>#</msg3><prefix>4U_ITU#</prefix><nocd>
+</nocd></entity>
+
+<entity><name>
+Jamaica</name><Afn></Afn><numb>082</numb><cont>NA</cont><msg3>#</msg3><prefix>6Y</prefix><nocd>
+</nocd></entity><entity><name>
+Jan Mayen</name><Afn></Afn><numb>118</numb><cont>EU</cont><msg3></msg3><prefix>JX</prefix><nocd>
+</nocd></entity><entity><name>
+Japan</name><Afn></Afn><numb>339</numb><cont>AS</cont><msg3></msg3><prefix>JA-</prefix><prefix2>JS</prefix2>
+<prefix3>7J-</prefix3><prefix4>7N</prefix4><nocd></nocd></entity><entity><name>
+Jersey</name><Afn></Afn><numb>122</numb><cont>EU</cont><msg3></msg3><prefix>GJ</prefix><prefix2>GH</prefix2><nocd>
+</nocd></entity><entity><name>
+Johnston I</name><Afn></Afn><numb>123</numb><cont>OC</cont><msg3>#</msg3><prefix>KH3</prefix><nocd>
+</nocd></entity><entity><name>
+Jordan</name><Afn></Afn><numb>342</numb><cont>AS</cont><msg3>#</msg3><prefix>JY</prefix><nocd>
+</nocd></entity><entity><name>
+Juan de Nova+ Europa</name><Afn>17</Afn><numb>124</numb><cont>AF</cont><msg3></msg3><prefix>FT/J</prefix><prefix2>E</prefix2>
+<prefix3>TO</prefix3><nocd></nocd></entity><entity><name>
+Juan Fernandez Is</name><Afn></Afn><numb>125</numb><cont>SA</cont><msg3>#</msg3><prefix>CE0</prefix><nocd>
+</nocd></entity>
+
+<entity><name>
+Kaliningrad</name><Afn></Afn><numb>126</numb><cont>EU</cont><msg3></msg3><prefix>UA2/RA2</prefix><nocd>
+</nocd></entity><entity><name>
+Kazakhstan</name><Afn></Afn><numb>130</numb><cont>AS</cont><msg3></msg3><prefix>UN-</prefix><prefix2>UQ</prefix2><nocd>
+</nocd></entity><entity><name>
+Kenya</name><Afn></Afn><numb>430</numb><cont>AF</cont><msg3></msg3><prefix>5Y</prefix><prefix2>5Z</prefix2><nocd>
+</nocd></entity><entity><name>
+Kerguelen Is</name><Afn></Afn><numb>131</numb><cont>AF</cont><msg3></msg3><prefix>FT/X</prefix><nocd>
+</nocd></entity><entity><name>
+Kermadec Is</name><Afn></Afn><numb>133</numb><cont>OC</cont><msg3></msg3><prefix>ZL8</prefix><nocd>
+</nocd></entity><entity><name>
+C Kiribati</name><Afn></Afn><numb>031</numb><cont>OC</cont><msg3></msg3><prefix>T31</prefix><nocd>*
+</nocd></entity><entity><name>
+E Kiribati</name><Afn></Afn><numb>048</numb><cont>OC</cont><msg3></msg3><prefix>T32</prefix><nocd>*
+</nocd></entity>
+
+<entity><name>
+W Kiribati</name><Afn></Afn><numb>301</numb><cont>OC</cont><msg3></msg3><prefix>T30</prefix><nocd>*
+</nocd></entity><entity><name>
+Republic of Korea</name><Afn></Afn><numb>137</numb><cont>AS</cont><msg3></msg3><prefix>HL</prefix><prefix2>6K-6N</prefix2><nocd>
+</nocd></entity><entity><name>
+Kosovo Rep of</name><Afn>55</Afn><numb>169</numb><cont>EU</cont><msg3></msg3><prefix>Z6</prefix><nocd>
+</nocd></entity><entity><name>
+Kure I</name><Afn></Afn><numb>138</numb><cont>OC</cont><msg3>#</msg3><prefix>KH7K</prefix><nocd>*
+</nocd></entity><entity><name>
+Kuwait</name><Afn></Afn><numb>348</numb><cont>AS</cont><msg3></msg3><prefix>9K</prefix><nocd>
+</nocd></entity><entity><name>
+Kyrgyzstan</name><Afn></Afn><numb>135</numb><cont>AS</cont><msg3></msg3><prefix>EX</prefix><nocd>
+</nocd></entity>
+
+<entity><name>
+Lakshadweep Is</name><Afn></Afn><numb>142</numb><cont>AS</cont><msg3></msg3><prefix>VU7</prefix><nocd>
+</nocd></entity><entity><name>
+Laos</name><Afn></Afn><numb>143</numb><cont>AS</cont><msg3></msg3><prefix>XW</prefix><nocd>*
+</nocd></entity><entity><name>
+Latvia</name><Afn></Afn><numb>145</numb><cont>EU</cont><msg3></msg3><prefix>YL</prefix><nocd>
+</nocd></entity><entity><name>
+Lebanon</name><Afn></Afn><numb>354</numb><cont>AS</cont><msg3></msg3><prefix>OD</prefix><nocd>
+</nocd></entity><entity><name>
+Lesotho</name><Afn></Afn><numb>432</numb><cont>AF</cont><msg3></msg3><prefix>7P</prefix><nocd>*
+</nocd></entity>
+
+<entity><name>
+Liberia</name><Afn></Afn><numb>434</numb><cont>AF</cont><msg3>#</msg3><prefix>EL</prefix><nocd>
+</nocd></entity><entity><name>
+Libya</name><Afn></Afn><numb>436</numb><cont>AF</cont><msg3></msg3><prefix>5A</prefix><nocd>*
+</nocd></entity><entity><name>
+Liechtenstein</name><Afn></Afn><numb>251</numb><cont>EU</cont><msg3></msg3><prefix>HB0</prefix><nocd>*
+</nocd></entity><entity><name>
+Lithuania</name><Afn></Afn><numb>146</numb><cont>EU</cont><msg3></msg3><prefix>LY</prefix><nocd>
+</nocd></entity><entity><name>
+Lord Howe I</name><Afn></Afn><numb>147</numb><cont>OC</cont><msg3></msg3><prefix>VK9L</prefix><nocd>
+</nocd></entity><entity><name>
+Luxembourg</name><Afn></Afn><numb>254</numb><cont>EU</cont><msg3></msg3><prefix>LX</prefix><nocd>
+</nocd></entity>
+
+<entity><name>
+Macao</name><Afn></Afn><numb>152</numb><cont>AS</cont><msg3></msg3><prefix>XX9</prefix><nocd>
+</nocd></entity><entity><name>
+N Macedonia</name><Afn>41</Afn><numb>169</numb><cont>EU</cont><msg3></msg3><prefix>Z3</prefix><nocd>
+</nocd></entity><entity><name>
+Macquarie I</name><Afn></Afn><numb>153</numb><cont>OC</cont><msg3></msg3><prefix>VK0</prefix><nocd>
+</nocd></entity><entity><name>
+Madagascar</name><Afn></Afn><numb>438</numb><cont>AF</cont><msg3></msg3><prefix>5R</prefix><nocd>*
+</nocd></entity><entity><name>
+Madeira Is</name><Afn></Afn><numb>256</numb><cont>AF</cont><msg3></msg3><prefix>CT3</prefix><nocd>
+</nocd></entity><entity><name>
+Malawi</name><Afn></Afn><numb>440</numb><cont>AF</cont><msg3></msg3><prefix>7Q</prefix><nocd>*
+</nocd></entity><entity><name>
+Maldives</name><Afn></Afn><numb>159</numb><cont>AS</cont><msg3></msg3><prefix>8Q</prefix><nocd>
+</nocd></entity>
+
+<entity><name>
+Malta</name><Afn></Afn><numb>257</numb><cont>EU</cont><msg3></msg3><prefix>9H</prefix><nocd>
+</nocd></entity><entity><name>
+Mali</name><Afn>36</Afn><numb>442</numb><cont>AF</cont><msg3></msg3><prefix>TZ</prefix><nocd>
+</nocd></entity><entity><name>
+Malpelo I</name><Afn></Afn><numb>161</numb><cont>SA</cont><msg3>#</msg3><prefix>HK0</prefix><nocd>
+</nocd></entity><entity><name>
+Mariana Is</name><Afn></Afn><numb>166</numb><cont>OC</cont><msg3>#</msg3><prefix>KH0</prefix><nocd>*
+</nocd></entity><entity><name>
+Market Reef</name><Afn></Afn><numb>167</numb><cont>EU</cont><msg3></msg3><prefix>OJ0</prefix><nocd>
+</nocd></entity><entity><name>
+Marshall Is</name><Afn></Afn><numb>168</numb><cont>OC</cont><msg3>#</msg3><prefix>V7</prefix><nocd>
+</nocd></entity><entity><name>
+Martinique</name><Afn></Afn><numb>084</numb><cont>NA</cont><msg3></msg3><prefix>FM</prefix><prefix2>TO</prefix2><nocd>
+</nocd></entity>
+
+<entity><name>
+Marquesas Is</name><Afn></Afn><numb>509</numb><cont>OC</cont><msg3></msg3><prefix>FO</prefix><prefix2>TX</prefix2><nocd>
+</nocd></entity><entity><name>
+Mauritania</name><Afn>2</Afn><numb>444</numb><cont>AF</cont><msg3></msg3><prefix>5T</prefix><nocd>*
+</nocd></entity><entity><name>
+Mauritius</name><Afn></Afn><numb>165</numb><cont>AF</cont><msg3></msg3><prefix>3B8</prefix><nocd>*
+</nocd></entity><entity><name>
+Mayotte</name><Afn>13</Afn><numb>169</numb><cont>AF</cont><msg3></msg3><prefix>FH</prefix><prefix2>TO</prefix2><nocd>
+</nocd></entity><entity><name>
+Mellish Reef</name><Afn></Afn><numb>171</numb><cont>OC</cont><msg3></msg3><prefix>VK9M</prefix><nocd>
+</nocd></entity><entity><name>
+Mexico</name><Afn></Afn><numb>050</numb><cont>NA</cont><msg3>#</msg3><prefix>XA-</prefix><prefix2>XI</prefix2><nocd>
+</nocd></entity><entity><name>
+Montserrat</name><Afn>37</Afn><numb>096</numb><cont>NA</cont><msg3></msg3><prefix>VP2M</prefix><nocd>*
+</nocd></entity>
+
+<entity><name>
+Micronesia</name><Afn>38</Afn><numb>173</numb><cont>OC</cont><msg3></msg3><prefix>V6</prefix><nocd>*
+</nocd></entity><entity><name>
+Midway I</name><Afn></Afn><numb>174</numb><cont>OC</cont><msg3>#</msg3><prefix>KH4</prefix><nocd>*
+</nocd></entity><entity><name>
+Minami Torishima</name><Afn>177</Afn><numb>169</numb><cont>OC</cont><msg3></msg3><prefix>JD1</prefix><nocd>
+</nocd></entity><entity><name>
+Moldova</name><Afn></Afn><numb>179</numb><cont>EU</cont><msg3></msg3><prefix>ER</prefix><nocd>
+</nocd></entity><entity><name>
+Montenegro</name><Afn>47</Afn><numb>514</numb><cont>EU</cont><msg3></msg3><prefix>4O</prefix><nocd>
+</nocd></entity><entity><name>
+Morocco</name><Afn></Afn><numb>446</numb><cont>AF</cont><msg3></msg3><prefix>CN</prefix><nocd>*
+</nocd></entity><entity><name>
+Mount Athos</name><Afn></Afn><numb>180</numb><cont>EU</cont><msg3></msg3><prefix>SV/A</prefix><nocd>
+</nocd></entity><entity><name>
+Mozambique</name><Afn></Afn><numb>181</numb><cont>AF</cont><msg3></msg3><prefix>C8</prefix><prefix2>C9</prefix2><nocd>
+</nocd></entity><entity><name>
+Myanmar</name><Afn></Afn><numb>309</numb><cont>AS</cont><msg3></msg3><prefix>XY-</prefix><prefix2>XZ</prefix2><nocd>*
+</nocd></entity>
+
+<entity><name>
+Namibia</name><Afn></Afn><numb>464</numb><cont>AF</cont><msg3></msg3><prefix>V5</prefix><nocd>
+</nocd></entity><entity><name>
+Naura</name><Afn></Afn><numb>157</numb><cont>OC</cont><msg3></msg3><prefix>C2</prefix><nocd>*
+</nocd></entity><entity><name>
+Navassa I</name><Afn></Afn><numb>182</numb><cont>NA</cont><msg3>#</msg3><prefix>KP1</prefix><nocd>*
+</nocd></entity><entity><name>
+Nepal</name><Afn></Afn><numb>369</numb><cont>AS</cont><msg3></msg3><prefix>9N</prefix><nocd>*
+</nocd></entity><entity><name>
+Netherlands</name><Afn></Afn><numb>263</numb><cont>EU</cont><msg3></msg3><prefix>PA-</prefix><prefix2>PI</prefix2><nocd>
+</nocd></entity><entity><name>
+New Caledonia</name><Afn></Afn><numb>162</numb><cont>OC</cont><msg3></msg3><prefix>FK</prefix><prefix2>TX</prefix2><nocd>
+</nocd></entity><entity><name>
+New Zealand</name><Afn></Afn><numb>170</numb><cont>OC</cont><msg3></msg3><prefix>ZL-</prefix><prefix2>ZM</prefix2><nocd>
+</nocd></entity><entity><name>
+New Zealand, SubAnt I</name><Afn></Afn><numb>016</numb><cont>OC</cont><msg3></msg3><prefix>ZL9</prefix><nocd>*
+</nocd></entity>
+
+<entity><name>
+Nicaragua</name><Afn></Afn><numb>086</numb><cont>NA</cont><msg3>#</msg3><prefix>YN</prefix><prefix2>H6-</prefix2><prefix3>H7</prefix3>
+<prefix4>HT</prefix4><nocd></nocd></entity><entity><name>
+Niger</name><Afn>3</Afn><numb>187</numb><cont>AF</cont><msg3></msg3><prefix>5U</prefix><nocd>*
+</nocd></entity><entity><name>
+Nigeria</name><Afn></Afn><numb>450</numb><cont>AF</cont><msg3></msg3><prefix>5N</prefix><nocd>
+</nocd></entity><entity><name>
+Niue</name><Afn></Afn><numb>188</numb><cont>OC</cont><msg3></msg3><prefix>E6</prefix><nocd>
+</nocd></entity><entity><name>
+Norfolk I</name><Afn></Afn><numb>189</numb><cont>OC</cont><msg3></msg3><prefix>VK9N</prefix><nocd>
+</nocd></entity><entity><name>
+Northern Ireland</name><Afn></Afn><numb>265</numb><cont>EU</cont><msg3></msg3><prefix>GI</prefix><prefix2>GN</prefix2><nocd>
+</nocd></entity><entity><name>
+Norway</name><Afn></Afn><numb>266</numb><cont>EU</cont><msg3></msg3><prefix>LA-</prefix><prefix2>LN</prefix2><nocd>
+</nocd></entity>
+
+<entity><name>
+S Orkney Is</name><Afn></Afn><numb>238</numb><cont>SA</cont><msg3></msg3><prefix>VP8</prefix><prefix2>LU</prefix2><nocd>
+</nocd></entity><entity><name>
+Oman</name><Afn></Afn><numb>370</numb><cont>AS</cont><msg3></msg3><prefix>A4</prefix><nocd>
+</nocd></entity><entity><name>
+Ogasawara</name><Afn>20</Afn><numb>192</numb><cont>AS</cont><msg3></msg3><prefix>JD1</prefix><nocd>
+</nocd></entity>
+
+<entity><name>
+Pakistan</name><Afn></Afn><numb>372</numb><cont>AS</cont><msg3></msg3><prefix>AP</prefix><nocd>
+</nocd></entity><entity><name>
+Palau</name><Afn>21</Afn><numb>022</numb><cont>OC</cont><msg3></msg3><prefix>T8</prefix><nocd>*
+</nocd></entity><entity><name>
+Palestine</name><Afn>43</Afn><numb>510</numb><cont>AS</cont><msg3></msg3><prefix>E4</prefix><nocd>*
+</nocd></entity><entity><name>
+Palmyra+ Jarvis Is</name><Afn></Afn><numb>197</numb><cont>OC</cont><msg3>#</msg3><prefix>KH5</prefix><nocd>*
+</nocd></entity><entity><name>
+Panama</name><Afn></Afn><numb>088</numb><cont>NA</cont><msg3>#</msg3><prefix>HO</prefix><prefix2>HP</prefix2><nocd>
+</nocd></entity><entity><name>
+Papua New Guinea</name><Afn>24</Afn><numb>163</numb><cont>OC</cont><msg3></msg3><prefix>P2</prefix><nocd>*
+</nocd></entity><entity><name>
+Paraguay</name><Afn></Afn><numb>132</numb><cont>SA</cont><msg3>#</msg3><prefix>ZP</prefix><nocd>
+</nocd></entity>
+
+<entity><name>
+Peru</name><Afn></Afn><numb>136</numb><cont>SA</cont><msg3>#</msg3><prefix>OA-</prefix><prefix2>OC</prefix2><nocd>
+</nocd></entity><entity><name>
+Peter 1 I</name><Afn></Afn><numb>199</numb><cont>AN</cont><msg3></msg3><prefix>3Y</prefix><nocd>
+</nocd></entity><entity><name>
+Philippines</name><Afn></Afn><numb>375</numb><cont>OC</cont><msg3>#</msg3><prefix>DU-</prefix><prefix2>DZ</prefix2>
+<prefix3>4D-</prefix3><prefix4>4I</prefix4><nocd></nocd></entity><entity><name>
+Pitcairn I</name><Afn></Afn><numb>172</numb><cont>OC</cont><msg3>#</msg3><prefix>VP6</prefix><nocd>
+</nocd></entity><entity><name>
+Poland</name><Afn></Afn><numb>269</numb><cont>EU</cont><msg3></msg3><prefix>SN</prefix><prefix2>SR</prefix2><nocd>
+</nocd></entity><entity><name>
+Portugal</name><Afn></Afn><numb>272</numb><cont>EU</cont><msg3></msg3><prefix>CT</prefix><nocd>
+</nocd></entity><entity><name>
+Pratas I</name><Afn>12</Afn><numb>505</numb><cont>AS</cont><msg3></msg3><prefix>BV9P</prefix><nocd>*
+</nocd></entity>
+
+<entity><name>
+Prince Edward+ Marion Is</name><Afn></Afn><numb>201</numb><cont>AF</cont><msg3></msg3><prefix>ZS8</prefix><nocd>
+</nocd></entity><entity><name>
+Puerto Rico</name><Afn></Afn><numb>202</numb><cont>NA</cont><msg3>#</msg3><prefix>KP3</prefix><prefix2>KP4</prefix2><nocd>
+</nocd></entity><entity><name>
+Qatar</name><Afn></Afn><numb>376</numb><cont>AS</cont><msg3></msg3><prefix>A7</prefix><nocd>
+</nocd></entity>
+
+<entity><name>
+Reunion I</name><Afn></Afn><numb>453</numb><cont>AF</cont><msg3></msg3><prefix>FR</prefix><prefix2>TO</prefix2><nocd>
+</nocd></entity><entity><name>
+Revillagigedo</name><Afn></Afn><numb>204</numb><cont>NA</cont><msg3>#</msg3><prefix>XA4-</prefix><prefix2>XI4</prefix2><nocd>
+</nocd></entity><entity><name>
+Rodrigues I</name><Afn></Afn><numb>207</numb><cont>AF</cont><msg3></msg3><prefix>3B9</prefix><nocd>*
+</nocd></entity><entity><name>
+Romania</name><Afn></Afn><numb>275</numb><cont>EU</cont><msg3></msg3><prefix>YO-</prefix><prefix2>YR</prefix2><nocd>
+</nocd></entity><entity><name>
+Rotuma I</name><Afn></Afn><numb>460</numb><cont>OC</cont><msg3></msg3><prefix>3D2</prefix><nocd>*
+</nocd></entity><entity><name>
+Rwanda</name><Afn>9</Afn><numb>454</numb><cont>AF</cont><msg3></msg3><prefix>9X</prefix><nocd>*
+</nocd></entity>
+
+<entity><name>
+Saba+ St Eustatius</name><Afn>52</Afn><numb>519</numb><cont>NA</cont><msg3></msg3><prefix>PJ5</prefix><prefix2>PJ6</prefix2><nocd>*
+</nocd></entity><entity><name>
+S Sandwich Is</name><Afn></Afn><numb>240</numb><cont>SA</cont><msg3></msg3><prefix>VP8</prefix><prefix2>LU</prefix2><nocd>
+</nocd></entity><entity><name>
+Sao Tome+ Principe</name><Afn></Afn><numb>219</numb><cont>AF</cont><msg3></msg3><prefix>S9</prefix><nocd>*
+</nocd></entity><entity><name>
+Sable I</name><Afn></Afn><numb>211</numb><cont>NA</cont><msg3></msg3><prefix>CY0</prefix><nocd>
+</nocd></entity><entity><name>
+Samoa</name><Afn></Afn><numb>190</numb><cont>OC</cont><msg3></msg3><prefix>5W</prefix><nocd>
+</nocd></entity><entity><name>
+San Andres+ Providencia</name><Afn></Afn><numb>216</numb><cont>NA</cont><msg3>#</msg3><prefix>HK0</prefix><nocd>
+</nocd></entity><entity><name>
+San Felix+ San Ambrosia</name><Afn></Afn><numb>217</numb><cont>SA</cont><msg3>#</msg3><prefix>CE0</prefix><nocd>
+</nocd></entity>
+
+<entity><name>
+San Marino</name><Afn></Afn><numb>278</numb><cont>EU</cont><msg3></msg3><prefix>T7</prefix><nocd>
+</nocd></entity><entity><name>
+Sardinia</name><Afn></Afn><numb>225</numb><cont>EU</cont><msg3></msg3><prefix>IS0</prefix><prefix2>IM0</prefix2><nocd>
+</nocd></entity><entity><name>
+Saudi Arabia</name><Afn></Afn><numb>378</numb><cont>AS</cont><msg3></msg3><prefix>HZ</prefix><nocd>
+</nocd></entity><entity><name>
+Scarborough Reef</name><Afn>11</Afn><numb>506</numb><cont>AS</cont><msg3></msg3><prefix>BS7</prefix><nocd>*
+</nocd></entity><entity><name>
+Scotland</name><Afn></Afn><numb>279</numb><cont>EU</cont><msg3></msg3><prefix>GM</prefix><prefix2>GS</prefix2><nocd>
+</nocd></entity><entity><name>
+Senegal</name><Afn>4</Afn><numb>456</numb><cont>AF</cont><msg3></msg3><prefix>6V</prefix><prefix2>6W</prefix2><nocd>
+</nocd></entity><entity><name>
+Serbia</name><Afn></Afn><numb>296</numb><cont>EU</cont><msg3></msg3><prefix>YT</prefix><prefix2>YU</prefix2><nocd>
+</nocd></entity>
+
+<entity><name>
+St Helena</name><Afn></Afn><numb>250</numb><cont>AF</cont><msg3></msg3><prefix>ZD7</prefix><nocd>
+</nocd></entity><entity><name>
+Seychelles</name><Afn></Afn><numb>379</numb><cont>AF</cont><msg3></msg3><prefix>S7</prefix><nocd>*
+</nocd></entity><entity><name>
+S Shetland Is</name><Afn></Afn><numb>241</numb><cont>SA</cont><msg3></msg3><prefix>VP8</prefix><prefix2>LU</prefix2><nocd>*
+</nocd></entity><entity><name>
+Sint Maarten</name><Afn>53</Afn><numb>518</numb><cont>NA</cont><msg3></msg3><prefix>PJ7</prefix><nocd>*
+</nocd></entity><entity><name>
+Slovak Republic</name><Afn>23</Afn><numb>504</numb><cont>EU</cont><msg3></msg3><prefix>OM</prefix><nocd>
+</nocd></entity><entity><name>
+Sierra Leone</name><Afn></Afn><numb>458</numb><cont>AF</cont><msg3>#</msg3><prefix>9L</prefix><nocd>*
+</nocd></entity><entity><name>
+Singapore</name><Afn>10</Afn><numb>381</numb><cont>AS</cont><msg3></msg3><prefix>9V</prefix><nocd>
+</nocd></entity>
+
+<entity><name>
+Slovenia</name><Afn>6</Afn><numb>499</numb><cont>EU</cont><msg3></msg3><prefix>S5</prefix><nocd>
+</nocd></entity><entity><name>
+Solomon Is</name><Afn></Afn><numb>185</numb><cont>OC</cont><msg3></msg3><prefix>H4</prefix><nocd>
+</nocd></entity><entity><name>
+Somalia</name><Afn></Afn><numb>232</numb><cont>AF</cont><msg3></msg3><prefix>6O</prefix><prefix2>T5</prefix2><nocd>*
+</nocd></entity><entity><name>
+South Africa</name><Afn></Afn><numb>462</numb><cont>AF</cont><msg3>#</msg3><prefix>ZR-</prefix><prefix2>ZU</prefix2><nocd>
+</nocd></entity><entity><name>
+  Sov Mil Order of Malta</name><Afn>1</Afn><numb>246</numb><cont>EU</cont><msg3></msg3><prefix>1A</prefix><nocd>*
+</nocd></entity><entity><name>
+  Spain</name><Afn></Afn><numb>281</numb><cont>EU</cont><msg3></msg3><prefix>EA-</prefix><prefix2>EH</prefix2><nocd>
+</nocd></entity><entity><name>
+  Spratly Is</name><Afn>1</Afn><numb>247</numb><cont>AS</cont><msg3></msg3><prefix></prefix><nocd>*
+</nocd></entity><entity><name>
+  Sri Lanka</name><Afn></Afn><numb>315</numb><cont>AS</cont><msg3></msg3><prefix>4S</prefix><nocd>
+</nocd></entity>
+
+<entity><name>
+  St Barthelemy</name><Afn>49</Afn><numb>516</numb><cont>NA</cont><msg3></msg3><prefix>FJ</prefix><nocd>
+</nocd></entity><entity><name>
+  St Kitts+ Nevis</name><Afn>37</Afn><numb>249</numb><cont>NA</cont><msg3>#</msg3><prefix>V4</prefix><prefix2>TO</prefix2><nocd>*
+</nocd></entity><entity><name>
+  St Lucia</name><Afn></Afn><numb>097</numb><cont>NA</cont><msg3>#</msg3><prefix>J6</prefix><nocd>
+</nocd></entity><entity><name>
+  St Martin</name><Afn></Afn><numb>213</numb><cont>NA</cont><msg3></msg3><prefix>FS</prefix><prefix2>TO</prefix2><nocd>
+</nocd></entity><entity><name>
+  St Paul I</name><Afn></Afn><numb>252</numb><cont>NA</cont><msg3></msg3><prefix>CY9</prefix><nocd>
+</nocd></entity><entity><name>
+  St Peter+ Paul Rocks</name><Afn></Afn><numb>253</numb><cont>SA</cont><msg3>#</msg3><prefix>PP0-</prefix><prefix2>PY0S</prefix2><nocd>
+</nocd></entity><entity><name>
+  St Pierre+ Miquelon</name><Afn></Afn><numb>277</numb><cont>NA</cont><msg3></msg3><prefix>FP</prefix><nocd>
+</nocd></entity>
+
+<entity><name>
+  St Vincent</name><Afn></Afn><numb>098</numb><cont>NA</cont><msg3>#</msg3><prefix>J8</prefix><nocd>*
+</nocd></entity><entity><name>
+  Sudan</name><Afn></Afn><numb>466</numb><cont>AF</cont><msg3></msg3><prefix>ST</prefix><nocd>*
+</nocd></entity><entity><name>
+  S Sudan</name><Afn>54</Afn><numb>169</numb><cont>AF</cont><msg3></msg3><prefix>Z8</prefix><nocd>*
+</nocd></entity><entity><name>
+  Suriname</name><Afn></Afn><numb>140</numb><cont>SA</cont><msg3></msg3><prefix>PZ</prefix><nocd>*
+</nocd></entity><entity><name>
+  Svalbard</name><Afn></Afn><numb>259</numb><cont>EU</cont><msg3></msg3><prefix>JW</prefix><nocd>
+</nocd></entity><entity><name>
+  Swains I</name><Afn>48</Afn><numb>515</numb><cont>OC</cont><msg3>#</msg3><prefix>KH8</prefix><nocd>
+</nocd></entity><entity><name>
+  Sweden</name><Afn></Afn><numb>284</numb><cont>EU</cont><msg3></msg3><prefix>SA-SM</prefix><prefix2>7S-8S</prefix2><nocd>
+</nocd></entity><entity><name>
+  Switzerland</name><Afn></Afn><numb>287</numb><cont>EU</cont><msg3></msg3><prefix>HB</prefix><nocd>
+</nocd></entity><entity><name>
+  Syria</name><Afn></Afn><numb>384</numb><cont>AS</cont><msg3></msg3><prefix>YK</prefix><nocd>
+</nocd></entity>
+
+<entity><name>
+  Taiwan</name><Afn></Afn><numb>386</numb><cont>AS</cont><msg3></msg3><prefix>BU-</prefix><prefix2>BX</prefix2><nocd>
+</nocd></entity><entity><name>
+  Tajikistan</name><Afn></Afn><numb>262</numb><cont>AS</cont><msg3></msg3><prefix>EY</prefix><nocd>
+</nocd></entity><entity><name>
+  Tanzania</name><Afn></Afn><numb>470</numb><cont>AF</cont><msg3></msg3><prefix>5H-</prefix><prefix2>5I</prefix2><nocd>
+</nocd></entity><entity><name>
+  Temotu Province</name><Afn>18</Afn><numb>507</numb><cont>OC</cont><msg3></msg3><prefix>H40</prefix><nocd>
+</nocd></entity><entity><name>
+  Thailand</name><Afn></Afn><numb>387</numb><cont>AS</cont><msg3></msg3><prefix>HS</prefix><prefix2>E2</prefix2><nocd>
+</nocd></entity><entity><name>
+  Timor- Leste</name><Afn>44</Afn><numb>511</numb><cont>OC</cont><msg3></msg3><prefix>4W</prefix><nocd>
+</nocd></entity><entity><name>
+  Turks+ Caicos Is</name><Afn></Afn><numb>089</numb><cont>NA</cont><msg3></msg3><prefix>VP5</prefix><nocd>
+</nocd></entity><entity><name>
+  Togo</name><Afn></Afn><numb>483</numb><cont>AF</cont><msg3></msg3><prefix>5V</prefix><nocd>*
+</nocd></entity>
+
+<entity><name>
+  Trindade+ Martim Vaz Is</name><Afn></Afn><numb>273</numb><cont>SA</cont><msg3>#</msg3><prefix>PP0-</prefix><prefix2>PY0T</prefix2>
+<nocd></nocd></entity><entity><name>
+  Trinidad+ Tobago</name><Afn></Afn><numb>090</numb><cont>SA</cont><msg3>#</msg3><prefix>9Y</prefix><prefix2>9Z</prefix2><nocd>
+</nocd></entity><entity><name>
+  Tristan da Cunha+ Gough I</name><Afn></Afn><numb>274</numb><cont>AF</cont><msg3></msg3><prefix>ZD9</prefix><nocd>*
+</nocd></entity><entity><name>
+Tokelau Is</name><Afn></Afn><numb>270</numb><cont>OC</cont><msg3></msg3><prefix>ZK3</prefix><nocd></nocd></entity><entity><name>
+Tromelin I</name><Afn></Afn><numb>276</numb><cont>AF</cont><msg3></msg3><prefix>FT/T</prefix><prefix2>TO</prefix2><nocd>
+</nocd></entity><entity><name>
+  Tunisia</name><Afn></Afn><numb>474</numb><cont>AF</cont><msg3></msg3><prefix>3V</prefix><nocd></nocd></entity><entity><name>
+  Turkey</name><Afn></Afn><numb>390</numb><cont>EU</cont><msg3></msg3><prefix>TA-</prefix><prefix2>TC</prefix2><nocd>
+</nocd></entity><entity><name>
+  Turkmenistan</name><Afn></Afn><numb>280</numb><cont>AS</cont><msg3></msg3><prefix>EZ</prefix><nocd>
+</nocd></entity><entity><name>
+  Tuvalu</name><Afn>28</Afn><numb>282</numb><cont>OC</cont><msg3></msg3><prefix>T2</prefix><nocd>*
+</nocd></entity>
+
+<entity><name>
+  Uganda</name><Afn></Afn><numb>286</numb><cont>AF</cont><msg3></msg3><prefix>5X</prefix><nocd>
+</nocd></entity><entity><name>
+  Ukraine</name><Afn></Afn><numb>288</numb><cont>EU</cont><msg3></msg3><prefix>UR-UZ</prefix><prefix2>EM-EO</prefix2><nocd>
+</nocd></entity><entity><name>
+  United Arab Emirates</name><Afn></Afn><numb>391</numb><cont>AS</cont><msg3></msg3><prefix>A6</prefix><nocd>*
+</nocd></entity><entity><name>
+  United Nations HQ</name><Afn></Afn><numb>289</numb><cont>NA</cont><msg3></msg3><prefix>4U_UN</prefix><nocd>
+</nocd></entity><entity><name>
+  United States</name><Afn></Afn><numb>291</numb><cont>NA</cont><msg3>#</msg3><prefix>K/W/N</prefix><prefix2>AA-</prefix2>
+<prefix3>AK</prefix3><nocd>
+  </nocd></entity><entity><name>
+  Uruguay</name><Afn></Afn><numb>144</numb><cont>SA</cont><msg3>#</msg3><prefix>CV-</prefix><prefix2>CX</prefix2><nocd>
+</nocd></entity><entity><name>
+  Uzbekistan</name><Afn></Afn><numb>292</numb><cont>AS</cont><msg3></msg3><prefix>UJ-</prefix><prefix2>UM</prefix2><nocd>*
+</nocd></entity>
+
+<entity><name>
+  Vanuatu</name><Afn></Afn><numb>158</numb><cont>OC</cont><msg3></msg3><prefix>YJ</prefix><nocd>
+</nocd></entity><entity><name>
+  Vatican</name><Afn></Afn><numb>295</numb><cont>EU</cont><msg3></msg3><prefix>HV</prefix><nocd>*
+</nocd></entity><entity><name>
+  Venezuela</name><Afn></Afn><numb>148</numb><cont>SA</cont><msg3>#</msg3><prefix>YV-</prefix><prefix2>YY</prefix2><prefix3>4M</prefix3>
+  <nocd></nocd></entity><entity><name>
+  Viet Nam</name><Afn></Afn><numb>293</numb><cont>AS</cont><msg3></msg3><prefix>3W</prefix><prefix2>XV</prefix2><nocd>
+</nocd></entity><entity><name>
+  Virgin Is</name><Afn></Afn><numb>285</numb><cont>NA</cont><msg3>#</msg3><prefix>KP2</prefix><prefix2>TO</prefix2><nocd>
+</nocd></entity><entity><name>
+  Wake I</name><Afn></Afn><numb>297</numb><cont>OC</cont><msg3>#</msg3><prefix>KH9</prefix><nocd>*
+</nocd></entity><entity><name>
+  Wales</name><Afn></Afn><numb>294</numb><cont>EU</cont><msg3></msg3><prefix>GW</prefix><prefix2>GC</prefix2><nocd>
+</nocd></entity><entity><name>
+  Wallis+ Futuna Is</name><Afn></Afn><numb>298</numb><cont>OC</cont><msg3></msg3><prefix>FW</prefix><nocd>
+</nocd></entity>
+
+<entity><name>
+  West Malaysia</name><Afn>8</Afn><numb>299</numb><cont>AS</cont><msg3></msg3><prefix>9M2</prefix><prefix2>9M4</prefix2><nocd>
+</nocd></entity><entity><name>
+  Western Sahara</name><Afn>1,27</Afn><numb>302</numb><cont>AF</cont><msg3></msg3><prefix>S0</prefix><nocd>*
+</nocd></entity><entity><name>
+  Willis I</name><Afn></Afn><numb>303</numb><cont>OC</cont><msg3></msg3><prefix>VK9W</prefix><nocd>
+</nocd></entity><entity><name>
+  Yemen</name><Afn>5</Afn><numb>492</numb><cont>AS</cont><msg3></msg3><prefix>7O</prefix><nocd>*
+</nocd></entity><entity><name>
+  Zambia</name><Afn></Afn><numb>482</numb><cont>AF</cont><msg3></msg3><prefix>9I</prefix><prefix2>9J</prefix2><nocd>
+</nocd></entity><entity><name>
+  Zimbabwe</name><Afn></Afn><numb>169</numb><cont>AF</cont><msg3></msg3><prefix>Z2</prefix><nocd>*
+</nocd></entity></adxdx>
